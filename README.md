@@ -1,5 +1,5 @@
 # video-compress-ffmpeg
-Python script to compress videos using ffmpeg
+##Python script to compress videos using ffmpeg
 
 
 Install ffmpeg by following instructions on the official website
